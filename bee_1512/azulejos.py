@@ -1,6 +1,6 @@
 while True:
-    amount, value_a, value_b = list(map(int, input().strip().split(' ')))
-    if amount == 0 and value_a == 0 and value_b == 0:
+    amount, value_a, value_b = map(int, input().strip().split(' '))
+    if amount == value_a == value_b == 0:
         break
     num_a = value_a
     num_b = value_b 
