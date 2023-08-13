@@ -6,8 +6,8 @@ while True:
     num_b = value_b 
     while num_b:
         num_a, num_b = num_b, num_a % num_b
-    mmc = value_a * value_b // num_a
-    multiple_mmc = amount // mmc
+    mdc = value_a * value_b // num_a
+    multiple_mdc = amount // mdc
     multiple_a = amount // value_a
     multiple_b = amount // value_b 
-    print(multiple_a + multiple_b - multiple_mmc)
+    print(multiple_a + multiple_b - multiple_mdc)
