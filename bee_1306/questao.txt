@@ -1,3 +1,5 @@
+beecrowd 1306
+
 No meu país, as ruas não têm nomes, cada uma delas tem apenas um número como nome. 
 Estes números devem ser únicos, mas nem sempre este é o caso. O governo local aloca alguns 
 inteiros para citar as estradas e, em muitos casos, o número de inteiros alocados é 
