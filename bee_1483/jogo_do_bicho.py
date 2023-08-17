@@ -59,3 +59,4 @@ while True:
         print('{:.2f}'.format(float(v) * 16))
     elif number_equal < 2:
         print('{:.2f}'.format(number_equal * 0))
+        
