@@ -44,7 +44,7 @@ while True:
         for x in range(count):
             list_z = []
             for y in range(len(list_geral)):
-                if y < 3 or (y >= 3 and x < 3):
+                if y < 3:
                     list_z.append(list_geral[y][x])
             braile = '\n'.join(list_z)
             for num in range(10):
