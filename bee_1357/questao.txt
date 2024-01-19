@@ -7,8 +7,6 @@ arranjadas em três fileiras e duas colunas. Cada posição pode ser relevada ou
 configurações diferentes que podem ser sentidas por dedos treinados. A figura abaixo mostra a 
 representação Braille para os dígitos decimais (um ponto preto indica uma posição relevada).
 
-​
-
 De modo a desenvolver um novo sistema de software para ajudar professores a lidar com estudantes
 cegos ou visualmente debilitados, um módulo de dicionário Braille é necessário. 
 Dada uma mensagem, composta apenas por dígitos, seu trabalho é traduzi-la para ou do Braille. 
@@ -22,7 +20,8 @@ a próxima linha contém uma mensagem composta de D dígitos decimais que seu pr
 deve traduzir para o Braille. Se a letra é 'B', as próxima três linhas contém uma mensagem 
 composta de D células Braille que seu programa deve traduzir do Braille.
 As células Braille são separadas por espaços simples. Em cada célula Braille uma posição relevada 
-é denotada pelo caractere '*' (asterisco), enquanto uma não relevada é denotada por um caractere '.' (ponto).
+é denotada pelo caractere '*' (asterisco), enquanto uma não relevada é denotada por 
+um caractere '.' (ponto).
 
 O último caso de teste é seguido por uma linha contendo um zero.
 
